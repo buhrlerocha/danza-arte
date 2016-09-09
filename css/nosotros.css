@@ -1,0 +1,89 @@
+/* Inserta tu codigo aqui */
+/* section primera */
+.container-fluid{
+	background-image: url(../img/dance_7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height:450px;
+}
+.opaco{
+	background-color: rgba(27, 21, 23, 0.6);
+	padding: 5px 10px; 
+
+	text-align: center;
+}
+.contenedoropaco {
+	padding:100px 300px;
+}
+.studio{
+	font-size: 40px;
+	color:white;
+	padding-top: 30px;
+}
+.julliart {
+	color:white;
+}
+/* section segunda */
+.pilar {
+	color: grey;
+}
+.contenido{
+	color: grey;
+}
+.cuadritos{
+	padding: 40px;
+}
+/* section tercera */
+.foto{
+	width: 68%;
+	height: 180px;
+}
+.instructores {
+	font-weight: 600;
+}
+.contenedortitulo{
+	padding:50px 500px;
+}
+/* parte final */
+.termino {
+	background-image: url(../img/pattern-3.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 200px;
+}
+.otra{
+	text-align: center;
+	padding-top: 80px;
+}
+button {
+	display: block;
+	font-size: 20px;
+	margin-top:10px;
+}
+.nombre {
+	padding: 5px 250px 5px 10px;
+	border: 1px solid grey;
+	background-color: white;
+}
+.email {
+	padding: 5px 275px 5px 10px;
+	border: 1px solid grey;
+	background-color: white;
+}
+.mensaje {
+	padding: 5px 250px 5px 10px;
+	border: 1px solid grey;
+	background-color: white;
+}
+.enviar {
+	padding: 5px 130px;
+	background-color: #000080;
+	border: 1px solid #000080;
+	color:white;
+	font-size: 20px;
+}
+.contactanos {
+	padding-top: 100px;
+}
