@@ -87,3 +87,9 @@ button {
 .contactanos {
 	padding-top: 100px;
 }
+.final {
+	background-color: #000080; 
+	width: 100%;
+	height: 40px;
+	margin-top: 40px;
+}
